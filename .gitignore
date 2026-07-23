@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local backups and temporary files
+*.bak
+*.tmp
+*~
+
+# Graph View profile data created during use
+profiles/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Release packages are attached to GitHub Releases
+*.zip
+*.sha256
