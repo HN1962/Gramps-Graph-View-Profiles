@@ -1,46 +1,23 @@
-\---
-
+---
 name: Feature request
-
 about: Suggest an improvement or new feature for Graph View Profiles
-
-title: "\[Feature] "
-
+title: "[Feature] "
 labels: enhancement
-
 assignees: ""
+---
 
-\---
-
-
-
-\## Proposal
-
-
+## Proposal
 
 Describe the requested improvement or feature.
 
-
-
-\## Reason
-
-
+## Reason
 
 Explain what problem it would solve or why it would be useful.
 
-
-
-\## Suggested behaviour
-
-
+## Suggested behaviour
 
 Describe how you think it should work.
 
-
-
-\## Additional information
-
-
+## Additional information
 
 Add examples, screenshots or other relevant details.
-

@@ -1,70 +1,35 @@
-\---
-
+---
 name: Bug report
-
 about: Report a reproducible problem with Graph View Profiles
-
-title: "\[Bug] "
-
+title: "[Bug] "
 labels: bug
-
 assignees: ""
+---
 
-\---
-
-
-
-\## Description
-
-
+## Description
 
 Describe the problem clearly.
 
+## Steps to reproduce
 
+1.
+2.
+3.
 
-\## Steps to reproduce
-
-
-
-1\.
-
-2\.
-
-3\.
-
-
-
-\## Expected result
-
-
+## Expected result
 
 Describe what you expected to happen.
 
-
-
-\## Actual result
-
-
+## Actual result
 
 Describe what happened instead.
 
+## Environment
 
+- Gramps version:
+- Operating system:
+- Graph View Profiles version:
 
-\## Environment
-
-
-
-\- Gramps version:
-
-\- Operating system:
-
-\- Graph View Profiles version:
-
-
-
-\## Additional information
-
-
+## Additional information
 
 Add screenshots, error messages, log excerpts or other relevant details.
-
