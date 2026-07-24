@@ -66,7 +66,13 @@ ProfileTag filtering can be selected independently of the profile function from 
 
 ## Downloads and documentation
 
-Installation packages, documentation, and usage notes are available at [myown-project.dk](https://myown-project.dk/).
+Installation packages, documentation, and usage notes are also available at [myown-project.dk](https://myown-project.dk/).
+
+## Questions and support
+
+For general questions, installation help, and usage discussions, use GitHub Discussions.
+
+For reproducible bugs and feature requests, use GitHub Issues.
 
 ## License
 
