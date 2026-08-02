@@ -1,6 +1,6 @@
-# Graph View Profiles V1.0
+# Gramps Graph View Profiles V1.0
 
-Graph View Profiles extends the **Graph View** add-on for **Gramps 6.0** with reusable Standard and View profiles, startup control, temporary profile use, and ProfileTag filtering.
+Gramps Graph View Profiles extends the **Graph View** add-on for **Gramps 6.0** with reusable Standard and View profiles, startup control, temporary profile use, and ProfileTag filtering.
 
 A Standard profile stores a reusable Graph View setup for one family tree. Named View profiles can also include the Home person and Active person.
 

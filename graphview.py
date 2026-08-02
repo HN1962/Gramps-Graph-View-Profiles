@@ -11,7 +11,7 @@
 # Copyright (C) 2015-      Serge Noiraud
 # Copyright (C) 2016-      Ivan Komaritsyn
 #
-# Modified in 2026 for the Graph View Profiles project.
+# Modified in 2026 for the Gramps Graph View Profiles project.
 # Project website: https://myown-project.dk/
 #
 # This program is free software; you can redistribute it and/or modify

@@ -1,4 +1,4 @@
-# Graph View Profiles V1.0
+# Gramps Graph View Profiles V1.0
 
 Initial public release.
 
