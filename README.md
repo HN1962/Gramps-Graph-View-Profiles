@@ -1,4 +1,5 @@
 # Gramps Graph View Profiles V1.0
+[ReadMe](README.md) • [Release Notes](RELEASE_NOTES.md)
 
 Gramps Graph View Profiles extends the **Graph View** add-on for **Gramps 6.0** with reusable Standard and View profiles, startup control, temporary profile use, and ProfileTag filtering.
 
